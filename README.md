@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,react,git,notion&theme=light)](https://skillicons.dev)
 
-![Hailey21's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailey21&show_icons=true&theme=radical)
+![Hailey21's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailey21&show_icons=true&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailey21&layout=compact)
 
