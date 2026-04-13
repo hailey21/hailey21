@@ -1,31 +1,99 @@
-## Hi there 👋
+## 👋 Hi, I'm Soojung
 
-<!--
-**hailey21/hailey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 14+ years of experience building scalable backend systems, authentication platforms, and AI-powered services.  
+I focus on **robust architecture**, **clean APIs**, and **practical AI integration** in production environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,react,git,notion&theme=light)](https://skillicons.dev)
+- Design and build backend systems using **Java / Spring Boot**
+- Architect authentication and authorization systems (OAuth2 / OIDC / JWT)
+- Develop scalable REST APIs and cloud-native services
+- Integrate LLM / AI features into real-world products
+- Refactor legacy systems and improve system reliability
+- Mentor engineers and support technical decision-making
 
-![Hailey21's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailey21&show_icons=true&theme=light)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailey21&layout=compact)
+## 🚀 Recent Focus
+
+- Building **AI-powered requirement analysis and PRD generation systems**
+- Designing **multi-step LLM pipelines** for software development workflows
+- Implementing **Spring Authorization Server** based authentication platforms
+- Developing cloud-based services and backend architectures
+
+---
+
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,aws,gcp,docker,rabbitmq,react,vue,angular,git,github,linux,notion&theme=light)](https://skillicons.dev)
+
+**Backend**
+
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST API Design
+
+**Cloud / DevOps**
+
+- AWS
+- Docker
+
+**Database**
+
+- MySQL
+- PostgreSQL
+
+**Frontend**
+
+- React
+- TypeScript
+
+**AI / Integration**
+
+- OpenAI API
+- LLM Integration
+- Vector Database
+- RAG Architecture
+
+---
+
+## 📌 Key Projects
+
+### [Greedy Runner](https://run.greedylabs.kr/)
+
+- Location-aware running service that provides real-time running guidance based on air quality and environmental conditions
+- Built a web-based running assistant using public environmental data (air quality, ozone, fine dust)
+- Designed location-based logic to map user coordinates to nearest monitoring stations
+- Implemented real-time running safety index calculation and visualization
+- Focused on practical health and safety decision support for runners
 
 
-![Static Badge](https://img.shields.io/badge/Blog-brightgreen?style=for-the-badge&logo=Notion&color=000000&link=https%3A%2F%2Fblog.hailey21.kr)
-![Static Badge](https://img.shields.io/badge/hailey.soojung%40gmail.com-brightgreen?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836&link=hailey.soojung%40gmail.com)
+### MVP AI Studio
 
+- Developed a system that analyzes user prompts and generates MVP applications
+- Designed requirement extraction and structured PRD generation pipeline
+- Integrated LLM-based workflow automation
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhailey21%2Fhit-counter&count_bg=%233C7411&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Cloud Cost & Resource Management System
 
+- Built batch systems for multi-cloud resource monitoring
+- Developed cost analytics dashboards and alerting systems
+- Refactored legacy systems for performance and maintainability
 
+---
+
+## 📫 Contact
+
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion)](https://blog.hailey21.kr)
+
+[![Email](https://img.shields.io/badge/Email-hailey.soojung@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hailey.soojung@gmail.com)
+
+---
+
+## 🟩 Contribution Calendar
+
+![Contribution Calendar](https://ghchart.rshah.org/hailey21)
