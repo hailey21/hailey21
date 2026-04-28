@@ -97,3 +97,9 @@ I focus on **robust architecture**, **clean APIs**, and **practical AI integrati
 ## 🟩 Contribution Calendar
 
 ![Contribution Calendar](https://ghchart.rshah.org/hailey21)
+
+
+## Git Animals
+<div style="
+<a href="https://www.gitanimals.org"><img src="https://render.gitanimals.org/farms/hailey21" width="49.5%" /></a>
+<a href="https://www.gitanimals.org/guild/680048729661395855"><img src="https://render.gitanimals.org/guilds/680048729661395855/draw" width="49.5%" /></a>
